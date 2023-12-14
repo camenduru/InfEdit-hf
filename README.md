@@ -1,13 +1,6 @@
 ---
 title: InfEdit
-emoji: 🌍
-colorFrom: purple
-colorTo: purple
+app_file: app_ead_instuct.py
 sdk: gradio
-sdk_version: 4.9.0
-app_file: app.py
-pinned: false
-license: cc-by-nc-sa-4.0
+sdk_version: 4.7.1
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
