@@ -490,10 +490,8 @@ with gr.Blocks(css=css) as demo:
         gr.HTML(
             """
             <p style="font-size: 0.95rem;margin: 0rem;line-height: 1.2em;margin-top:1em;display: inline-block">
-                <a href="https://sled-group.github.io/InfEdit/" target="_blank">project page</a> | <a href="https://arxiv.org" target="_blank">paper</a>| <a href="https://github.com/sled-group/InfEdit/tree/website" target="_blank">handbook</a>
+                <a href="https://sled-group.github.io/InfEdit/" target="_blank">project page</a> | <a href="https://arxiv.org/pdf/2312.04965.pdf" target="_blank">paper</a>| <a href="https://github.com/sled-group/InfEdit/tree/website" target="_blank">handbook</a>
             </p>
-
-            We are now hosting on a A4000 GPU with 16 GiB memory.
         """
         )
     with gr.Row():
